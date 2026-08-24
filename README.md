@@ -1,3 +1,4 @@
+README.md
 SQL Music Store Analysis
 📌 Project Overview
 
@@ -321,7 +322,7 @@ Understanding this pattern is essential for solving analytical SQL problems.
 🛠️ Tools & Technologies
 SQL
 Relational Database
-Music Store Dataset
+PostgreSQL Music Store Dataset
 SQL-compatible database such as PostgreSQL
 📁 Suggested Project Structure
 sql-music-store-analysis/
@@ -334,7 +335,7 @@ sql-music-store-analysis/
 │   └── advanced.sql
 │
 └── dataset/
-    └── database
+    └── PostgreSQL_database
 
 🎯 Project Objectives
 
